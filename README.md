@@ -40,7 +40,7 @@ mini_blogging_website
 
 ### 1. Clone the Repository 📥
 ```bash
-git clone <repository_url>
+git clone https://github.com/anuragoo11/Mini_blogging_website
 cd mini_blogging_website
 ```
 
